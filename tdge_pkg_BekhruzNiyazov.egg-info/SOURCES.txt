@@ -1,0 +1,7 @@
+README.md
+setup.py
+tdge_pkg/__init__.py
+tdge_pkg_BekhruzNiyazov.egg-info/PKG-INFO
+tdge_pkg_BekhruzNiyazov.egg-info/SOURCES.txt
+tdge_pkg_BekhruzNiyazov.egg-info/dependency_links.txt
+tdge_pkg_BekhruzNiyazov.egg-info/top_level.txt
