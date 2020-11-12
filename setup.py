@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="tdge-pkg-BekhruzNiyazov", # Replace with your own username
-    version="0.0.1",
+    version="0.0.2",
     author="Bekhruz Niyazov",
     author_email="bekhruzsniyazov@outlook.com",
     description="Alpha version of 3D Game Engine.",
